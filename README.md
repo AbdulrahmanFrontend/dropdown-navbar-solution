@@ -19,7 +19,7 @@ This project is a solution to the [Frontend Mentor](https://www.frontendmentor.i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/snap-landing-page.git
+git clone https://github.com/AbdulrahmanFrontend/dropdown-navbar-solution
 ```
 2. Install dependencies:
 ```bash
